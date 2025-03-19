@@ -1,4 +1,4 @@
-# 👩🏻‍💻Só Rick
+# 👨‍💻Só Rick
 
 **`Software Developer`**
 
@@ -115,7 +115,7 @@ Me chamo Rickson Pedreira, tenho 24 anos e sou natural de São José do Rio Pret
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SóRick_Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=SoRick_Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
